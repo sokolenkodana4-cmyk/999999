@@ -67,3 +67,11 @@ padding: 10px;
 font-size: 0.9rem;
 color: #666;
 }
+@media (max-width: 600px){
+    body{
+    padding:10px
+    }
+    button {
+    width: 100%;
+    }
+}
