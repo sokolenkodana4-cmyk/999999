@@ -26,6 +26,7 @@ main{
 padding:20px;
 }
 
+
 section h2 {
 color: #333;
 font-size: 1.5rem;
@@ -34,8 +35,8 @@ margin-bottom: 20px;
 section div {
 margin-bottom: 20px;
 padding: 15px;
-border-radius: 8px;
-background-color: #f8f8f8;
+border-radius: 8px ;
+background-color: rgb(187, 115, 255);
 }
 
 button{
@@ -62,7 +63,7 @@ font-weight: bold;
 
 footer{
 text-align: center;
-background-color: #f0f0f0;
+background-color: blueviolet;
 padding: 10px;
 font-size: 0.9rem;
 color: #666;
@@ -73,5 +74,16 @@ color: #666;
     }
     button {
     width: 100%;
+    }
+    button{
+    font-size:1.5rem;
+    align-items: center;
+    }
+    section{
+    align-items: center;
+    }
+    .answer{
+    font-size: 1.5rem;
+    align-items: center;
     }
 }
